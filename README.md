@@ -3,7 +3,6 @@
 <div align="center">
   
   👨‍💻 Estudante de Análise e Desenvolvimento de Software  
-  💪 Praticante de BJJ e musculação  
   🚀 Em transição: de motorista de app para desenvolvedor  
   🙏 Agradecido a Deus por cada novo dia de aprendizado
 
