@@ -1,4 +1,4 @@
-### Olá, eu sou JorgeVictorPortugal! 👋
+### Olá, eu sou Jorge Victor Portugal! 👋
 
 <div align="center">
   
