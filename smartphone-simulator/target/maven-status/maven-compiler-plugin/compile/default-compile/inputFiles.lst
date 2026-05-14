@@ -1,0 +1,11 @@
+/home/user/Jorgeviictor/smartphone-simulator/src/main/java/com/jorgeviictor/smartphone/exceptions/DispositivoDesligadoException.java
+/home/user/Jorgeviictor/smartphone-simulator/src/main/java/com/jorgeviictor/smartphone/exceptions/NumeroInvalidoException.java
+/home/user/Jorgeviictor/smartphone-simulator/src/main/java/com/jorgeviictor/smartphone/exceptions/RedeIndisponivelException.java
+/home/user/Jorgeviictor/smartphone-simulator/src/main/java/com/jorgeviictor/smartphone/interfaces/AparelhoTelefonico.java
+/home/user/Jorgeviictor/smartphone-simulator/src/main/java/com/jorgeviictor/smartphone/interfaces/NavegadorInternet.java
+/home/user/Jorgeviictor/smartphone-simulator/src/main/java/com/jorgeviictor/smartphone/interfaces/ReprodutorMusical.java
+/home/user/Jorgeviictor/smartphone-simulator/src/main/java/com/jorgeviictor/smartphone/main/Main.java
+/home/user/Jorgeviictor/smartphone-simulator/src/main/java/com/jorgeviictor/smartphone/model/EstadoTelefone.java
+/home/user/Jorgeviictor/smartphone-simulator/src/main/java/com/jorgeviictor/smartphone/model/SmartDevice.java
+/home/user/Jorgeviictor/smartphone-simulator/src/main/java/com/jorgeviictor/smartphone/model/Smartphone.java
+/home/user/Jorgeviictor/smartphone-simulator/src/main/java/com/jorgeviictor/smartphone/model/SmartphoneFactory.java
